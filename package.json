@@ -1,0 +1,12 @@
+{
+	"name": "laptop-store",
+	"version": "1.0.0",
+	"description": "A node.js tutorial laptop store project",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "nodemon index.js"
+	},
+	"author": "Soham Kar",
+	"license": "ISC"
+}
