@@ -9,4 +9,4 @@ Clone this repository
 cd laptop-store
 npm start
 ```
-Then head over to the specified port to start listening
+Then head over to the specified port to start receiving
